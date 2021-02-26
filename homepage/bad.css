@@ -1,0 +1,54 @@
+body {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(145, 0, 0);
+  color: rgb(128, 255, 0);
+
+}
+
+h1,h2,h3,h4 {
+  font-weight: bolder;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 10px 10px 2px blue;
+  color:lightgoldenrodyellow;
+  margin: 0 0;
+}
+
+h1 {
+  margin: 40px 20px;
+  font-size: 6em;
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 10px 10px 5px blue;
+  font-size: larger;
+  margin: 0 31px;
+}
+
+li{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: small;
+  text-shadow: 5px 5px 5px rgb(245, 106, 106);
+  color:rgb(219, 243, 0);
+  padding: 40px 12px;
+}
+
+em{
+  color:red;
+  font-size: 3em;
+}
+
+img{
+  width: 800px;
+  height: 200px;
+  border-width: 20px;
+  border-color: olive;
+}
+
+.profile{
+  background-color: olivedrab;
+  background-image: url("profile.jpeg");
+  background-position: left;
+  background-repeat: repeat;
+  padding: 10em 0;
+}
